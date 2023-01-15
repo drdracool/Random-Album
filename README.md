@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+An interactive application which randomly generates users, albums and photos using React and Redux.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
